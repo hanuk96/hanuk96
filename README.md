@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 
+---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ttttoooommm)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttttoooommm)
