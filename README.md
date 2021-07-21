@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## 저는 유한욱입니다~
+
+### 프론트엔드 개발자가 되고싶은 열정넘치는 개발자입니다!!
+- 현재 프론트엔드 개발자가 되기 위해 Vue와 JavaScript, HTML, CSS3를 공부하는 중입니다.....
+
+### 좋아하는 것들
+- 코딩...
+
+### 목표
+- 2022년까지 프론트엔드 개발자 되기~!
+
 <!--
 **ttttoooommm/ttttoooommm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
