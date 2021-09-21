@@ -2,8 +2,6 @@
 
 ## 저는 유한욱입니다~
 
----
-
 <!--
 **hanuk96/hanuk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
