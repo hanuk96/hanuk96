@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)
 
 ### Skill
-<img src="https://img.shields.io/badge/Java-?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/github/languages/count/beygee/survive "/>
