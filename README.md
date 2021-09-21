@@ -2,20 +2,10 @@
 
 ## 저는 유한욱입니다~
 
-### 프론트엔드 개발자가 되고싶음
-- Java로 코딩테스트 준비중
-- 프론트엔드 개발자가 되기 위해 Vue와 JavaScript, HTML, CSS3를 공부중.....
-
-### 좋아하는 것들
-- 코딩...
-
-### 목표
-- 2022년까지 프론트엔드 개발자 되기~!
-
 ---
 
 <!--
-**hanuk96/ttttoooommm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hanuk96/hanuk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
