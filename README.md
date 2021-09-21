@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 백준
+### Boj
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 
 
-### 깃헙 스탯
+### Stat
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ttttoooommm)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)
 
 ### Skill
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-?style=flat-square&logo=Java&logoColor=white"/>
