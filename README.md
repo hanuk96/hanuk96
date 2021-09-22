@@ -1,4 +1,4 @@
-## About me
+## About me (Han wook)
 
 - 🎓 Kwangwoon University, Computer Engineering (2015.03 ~ 2019.02)
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></a>
 
-## Boj
+##
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 
 ##
