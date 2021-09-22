@@ -5,7 +5,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 
-[![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96&show_icons=true&theme=dark)
+![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96&show_icons=true&theme=dark)
 
 ![hanuk96's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)
 
