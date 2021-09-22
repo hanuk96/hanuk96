@@ -1,4 +1,4 @@
-## About me (Hanwook)
+## About me
 
 - 🎓 Kwangwoon University, Computer Engineering (2015.03 ~ 2019.02)
 
