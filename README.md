@@ -9,7 +9,7 @@
 [![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages
-![hanuk96's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&theme=dark)
+![hanuk96's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&langs_count=8&theme=dark)
 
 ### Skill
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
