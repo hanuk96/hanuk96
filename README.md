@@ -1,13 +1,9 @@
-### 👋 Hi there 👋
-
-### 저는 유한욱입니다~
-
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 
 ![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96&show_icons=true&theme=dark)
 
-![hanuk96's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
