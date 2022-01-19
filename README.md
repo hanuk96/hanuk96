@@ -3,7 +3,7 @@
 - 🎓 Kwangwoon University, Computer Engineering (2015.03 ~ 2019.02)
 -  🔫 R.O.K.A ROTC (2019.03 ~ 2021.06)   
 -  💻 SSAFY (2021.07 ~ )
-## Tech Skill   
+## Tech Skill
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
