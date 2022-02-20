@@ -1,8 +1,9 @@
-## About me 
+<div align="center">
+## About ME
  
-- 🎓 Kwangwoon University, Computer Engineering (2015.03 ~ 2019.02)
--  🔫 R.O.K.A ROTC (2019.03 ~ 2021.06)    
--  💻 SSAFY (2021.07 ~ )
+- **🎓 Kwangwoon University, Computer Engineering (2015.03 ~ 2019.02)**
+- **🔫 R.O.K.A ROTC (2019.03 ~ 2021.06)**    
+- **💻 SSAFY (2021.07 ~ )**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tech Skill
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanuk96%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -23,5 +24,4 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 ![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96&show_icons=true&theme=dark)
-
-
+</div>
