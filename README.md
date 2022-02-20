@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></a>
 
 ## Tool
-<img src="https://img.shields.io/badge/Amazon%20AWS-#232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"></a>
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
