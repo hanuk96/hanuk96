@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
