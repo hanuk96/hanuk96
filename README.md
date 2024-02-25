@@ -26,7 +26,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 <br>
 
-![hanuk96's github stats](https://github-readme-stats.vercel.app/api?username=hanuk96&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuk96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gi7182)](https://solved.ac/gi7182)
 </div>
